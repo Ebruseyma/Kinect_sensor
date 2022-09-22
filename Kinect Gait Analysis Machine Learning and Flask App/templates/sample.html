@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap-theme.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+
+    <title>Diseases</title>
+
+
+  </head>
+
+  <body>
+    <form action="{{ url_for('predict')}}" method="post"></form>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ url_for('index') }}">Home</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="{{ url_for('about') }}">About Us</a></li>
+            <li><a href="{{ url_for('sample') }}">Diseases</a></li>
+            <li><a href="{{ url_for('feedback') }}">Feedback</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  <br><br>
+
+<div id="pricing" class="container-fluid">
+<table class="table table-bordered  table-striped table-hover " >
+    <caption style="text-align:left; color:black; font-weight:bold;"><h2>Walking Diseases and Detailed Information</h2></caption>
+    <thead style="background-color:gray;">
+        <th> DISEASES</th>
+        <th>IMAGE</th>
+        <th>INFORMATION</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>PARKINSON'S</td>
+        <td width="400" height="200"><center><img src="{{url_for('static', filename='parkinson.jpg')}} "width="300" height="200 "></center></td>
+        <td>Parkinson's disease is more common in older ages. The patient walks "in a block", slowly and with small steps, with the head and body leaning forward. While the patient is walking, the arms do not swing, they remain attached to the trunk. Once they start walking in Parkinson's disease, the steps become more and more frequent, they appear to walk almost like a run. This is called festination and is described as "as if the patient is following the center of gravity". This type of gait disorder is often associated with Parkinson's disease and is characterized by short, mixed steps. </td>
+      </tr>
+      <tr>
+        <td>STROKE (HEMIPLEGIA)</td>
+        <td width="400" height="200"><center><img src="{{url_for('static', filename='inme.jpg')}}" width="300" height="200"></center></td>
+        <td>In stroke (hemiplegia) patients, the movement ability of the feet and arms (such as right arm and right leg) on the same side of the patient is limited. During walking, the weight is on the side where there is no problem. Since the patient could not bend the ankle and knee completely during walking, the knees and ankles were evaluated in the study, as well as the right or left arm with a stroke. In addition, since the steps taken during walking will be shorter than a healthy individual, step length, foot width, and cadence parameters are determined.</td>
+      </tr>
+      <tr>
+        <td width="300" height="100" >BOWLEG</td>
+        <td width="400" height="200" ><center><img src="{{url_for('static', filename='carpıkbacak.png')}}" width="300" height="200"></center></td>
+        <td>Bowleg is a condition that is caused by the deformity of the lower extremities of the body and is therefore different from normal walking. It is commonly known as looking like the letter X. The feet are further apart, while the knees are closer together. The opposite may also be possible. Bowleg disease in adults can be understood from the curvature of the knees. </td>
+      </tr>
+      <tr>
+        <td>TOE WALKING</td>
+        <td width="400" height="200"><center><img src="{{url_for('static', filename='parmakucu.jpg')}}" width="300" height="200"></center></td>
+        <td>Toe walking, although it is mostly seen in children, is walking on the toes without touching the heel or other parts of the foot. If it is not treated, walking can continue in this way in young people.</td>
+      </tr>
+      <tr>
+        <td>CEREBELLAR ATAXIA</td>
+        <td width="400" height="200"><center><img src="{{url_for('static', filename='serebellar.png')}}" width="300" height="200"></center></td>
+        <td>This disease occurs in the cerebellum or its connections in the central nervous system. While the patient is standing, it expands the resting surface by moving the feet apart. These patients, who are observed to have intense balance problems, have difficulty in maintaining their balance when their feet are brought together and may fall. Whether the eyes are open or closed does not change the situation. Walking is unsteady and similar to drunken walking, right-left shakes and jolts are seen. It is difficult to walk in a straight line.</td>
+      </tr>
+     
+      
+
+    </tbody>
+  </table>
+</div>
+
+
+</body>
+</html>

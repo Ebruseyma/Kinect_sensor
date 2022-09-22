@@ -1,0 +1,102 @@
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\bin\Debug\KinectGaitAnalysis.exe.config
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\bin\Debug\KinectGaitAnalysis.exe
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\bin\Debug\KinectGaitAnalysis.pdb
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.csprojAssemblyReference.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis_MarkupCompile.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.g.resources
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.Properties.Resources.resources
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.csproj.GenerateResource.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.csproj.CopyComplete
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.exe
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectCoordinateMapping\obj\Debug\KinectGaitAnalysis.pdb
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe.config
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.pdb
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.dll
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.xml
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csprojAssemblyReference.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.baml
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\App.g.cs
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis_MarkupCompile.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.g.resources
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.Properties.Resources.resources
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.GenerateResource.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CopyComplete
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.exe
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.pdb
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe.config
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.pdb
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.dll
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.xml
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csprojAssemblyReference.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.baml
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\App.g.cs
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis_MarkupCompile.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.g.resources
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.Properties.Resources.resources
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.GenerateResource.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CopyComplete
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.exe
+C:\Users\turan\Desktop\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.pdb
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\App.g.cs
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis_MarkupCompile.cache
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.g.resources
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.Properties.Resources.resources
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.GenerateResource.cache
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csprojAssemblyReference.cache
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe.config
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.pdb
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.dll
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.xml
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CopyComplete
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.exe
+C:\Users\user\Desktop\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.pdb
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe.config
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.pdb
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.dll
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.xml
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\App.g.cs
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis_MarkupCompile.cache
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.g.resources
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.Properties.Resources.resources
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CopyComplete
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.exe
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.pdb
+C:\Users\user\Downloads\KinectGaitAnalysis_1_deneme\KinectGaitAnalysis (1)\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe.config
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.exe
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\KinectGaitAnalysis.pdb
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.dll
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\bin\Debug\Microsoft.Kinect.xml
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\App.g.cs
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis_MarkupCompile.cache
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.g.resources
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.Properties.Resources.resources
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.csproj.CopyComplete
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.exe
+C:\Users\user\Downloads\KinectGaitAnalysisSon\KinectGaitAnalysis\KinectGaitAnalysis\obj\Debug\KinectGaitAnalysis.pdb

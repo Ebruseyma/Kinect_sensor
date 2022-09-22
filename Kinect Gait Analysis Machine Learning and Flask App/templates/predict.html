@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap-theme.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+
+    <title>The Gait Analysis</title>
+    
+ 
+  </head>
+
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ url_for('index') }}">Home</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="{{ url_for('about') }}">About Us</a></li>
+            <li><a href="{{ url_for('sample') }}">Diseases</a></li>
+            <li><a href="{{ url_for('feedback') }}">Feedback</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+	<div id="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6">
+          <h1 style="color:black;">The Gait Analysis</h1>
+        </div>
+      </div>
+      <h2 style="font-size: 20px; text-align:center">This system created with Machine Learning using Python and Flask.</h2>
+    </div>
+    
+  <br>
+
+
+<div class="container2">
+			<form class="form-search" style="text-align:center;">
+
+
+    </form>	
+   
+
+   <label>Hastalık:</label><br>
+   <br> <pre>{{ hastaliklar }</pre> </br>
+
+	</div>
+</div>	
+
+</form>
+</body>
+</html>
+  
